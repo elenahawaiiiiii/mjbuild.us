@@ -1,0 +1,413 @@
+/* screen - hvac */
+
+.hvac {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  padding: 2px 0px 0px;
+  position: relative;
+}
+
+.hvac .navbar {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  gap: 40px;
+  justify-content: flex-end;
+  left: 1063px;
+  position: absolute;
+  top: 28px;
+}
+
+.hvac .frame-427318909 {
+  background-image: url(../img/frame-427318909@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 153px;
+}
+
+.hvac .section {
+  height: 468px;
+  overflow: hidden;
+  padding: 60px 170px;
+}
+
+.hvac .container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 436px;
+}
+
+.hvac .title {
+  line-height: 48px;
+}
+
+.hvac .image-container-1 {
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 348px;
+  overflow: hidden;
+  width: 590px;
+}
+
+.hvac .image-1 {
+  background-color: var(--iron);
+  height: 488px;
+  margin-bottom: -70.00px;
+  margin-left: -72.00px;
+  margin-top: -70.00px;
+  position: relative;
+  width: 734px;
+}
+
+.hvac .wechat-img12618-1 {
+  height: 346px;
+  left: 72px;
+  position: absolute;
+  top: 70px;
+  width: 590px;
+}
+
+.hvac .vector-200 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 468px;
+  width: 1440px;
+}
+
+.hvac .products {
+  flex-direction: column;
+  gap: 70px;
+  height: 222px;
+  padding: 80px 0px 0px;
+}
+
+.hvac .container-1 {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  height: 96px;
+  justify-content: center;
+  position: relative;
+  width: 1100px;
+}
+
+.hvac .container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  position: relative;
+}
+
+.hvac .title-3 {
+  line-height: 48px;
+  text-align: center;
+}
+
+.hvac .description-1 {
+  text-align: center;
+}
+
+.hvac .vector-200-1 {
+  margin-left: -3013.00px;
+  margin-top: -2469.00px;
+  position: relative;
+}
+
+.hvac .commercial {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 551px;
+  position: relative;
+  width: 1440px;
+}
+
+.hvac .products-1 {
+  gap: 60px;
+  height: 551px;
+  justify-content: center;
+  padding: 80px 170px 60px;
+}
+
+.hvac .list {
+  align-items: center;
+  gap: 40px;
+  height: 500px;
+  justify-content: center;
+  margin-bottom: -44.50px;
+  margin-left: -105.00px;
+  margin-right: -105.00px;
+  margin-top: -44.50px;
+  width: 1310px;
+}
+
+.hvac .row {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 80px;
+  justify-content: center;
+  position: relative;
+}
+
+.hvac .card {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--black-2);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 420px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.hvac .image-container-2 {
+  height: 340px;
+  width: 340px;
+}
+
+.hvac .image {
+  align-items: center;
+  background-color: var(--iron);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.hvac .wechat-img1261 {
+  height: 340px;
+  position: relative;
+  width: 340px;
+}
+
+.hvac .text-content {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px;
+  position: relative;
+  width: 340px;
+}
+
+.hvac .title-1 {
+  line-height: 24px;
+}
+
+.hvac .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.hvac .image-container {
+  align-items: flex-start;
+  display: flex;
+  height: 340px;
+  position: relative;
+  width: 340px;
+}
+
+.hvac .image-2 {
+  background-color: var(--iron);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.hvac .wechat-img12620-1 {
+  height: 340px;
+  position: relative;
+  width: 339px;
+}
+
+.hvac .vector-200-2 {
+  left: 0;
+  position: absolute;
+  top: 550px;
+}
+
+.hvac .image-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--iron);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 292px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.hvac .screenshot-2025-03-06-at-164619-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.hvac .delivering-high-qual {
+  height: 16px;
+  left: 359px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 722px;
+}
+
+.hvac .form {
+  align-items: center;
+  display: inline-flex;
+  gap: 60px;
+  height: 224px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 100px 170px;
+  position: relative;
+}
+
+.hvac .container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: -36.00px;
+  margin-top: -36.00px;
+  position: relative;
+  width: 520px;
+}
+
+.hvac .vector-200-3 {
+  left: 0;
+  position: absolute;
+  top: 224px;
+}
+
+.hvac .list-1 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: -28.00px;
+  margin-top: -28.00px;
+  width: 520px;
+}
+
+.hvac .list-item {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 80px;
+  width: 100%;
+}
+
+.hvac .title-2 {
+  line-height: 20px;
+}
+
+.hvac .section-1 {
+  height: 146px;
+  padding: 60px;
+}
+
+.hvac .container-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 60px;
+  height: 100px;
+  justify-content: center;
+  margin-bottom: -37.00px;
+  margin-top: -37.00px;
+  position: relative;
+}
+
+.hvac .title-4 {
+  line-height: 28px;
+  text-align: center;
+  width: 322px;
+}
+
+.hvac .title-5 {
+  line-height: 28px;
+  text-align: center;
+  width: 124px;
+}
+
+.hvac .title-6 {
+  line-height: 28px;
+  text-align: center;
+  width: 119px;
+}
+
+.hvac .description-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.hvac .image-container-3 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.hvac .list-2 {
+  display: flex;
+  position: relative;
+}
+
+.hvac .section-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.hvac .title-7 {
+  align-self: stretch;
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.hvac .vector-200-4 {
+  height: 1px;
+  object-fit: cover;
+  width: 1440px;
+}
